@@ -1,6 +1,6 @@
 # Antenna-on-Rack-and-Pinion
 
-Uses a continuous servo to move an antenna on a rack and pinion with microswitch endpoints.
+Uses an Arduino to control a continuous servo to move an antenna on a rack and pinion with microswitch endpoints.
   
   https://www.thingiverse.com/thing:4619438
   
